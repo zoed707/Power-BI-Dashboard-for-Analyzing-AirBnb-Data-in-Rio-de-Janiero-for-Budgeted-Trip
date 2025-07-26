@@ -1,4 +1,4 @@
-Power-BI-Dashboard-for-Analyzing-AirBnb-Date-in-Rio-de-Janiero-for-Budgeted-Trip
+**Power BI Dashboard for Analyzing AirBnb Data in Rio de Janiero for Budgeted Trip**
 
 In this task I analyzed Airbnb options available  with a $50/ night budget for your future trip (for 3 nights).
 This was part of the Power BI Bootcamp challenge offered by TRSM
